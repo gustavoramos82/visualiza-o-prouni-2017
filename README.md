@@ -65,4 +65,4 @@ E as três faculdades/ Universidades que os aprovados se candidataram são Unive
 
 ## Próximos Passos
 
-Agora os Próximos passos será fazer uma análise separada por idade para comparar os interesses de cada faixa etária, fazer uma análise micro, no caso foi escolhido o Estado do Par
+Agora os Próximos passos será fazer uma análise separada por idade para comparar os interesses de cada faixa etária, fazer uma análise micro, no caso foi escolhido o Estado do Pará.
