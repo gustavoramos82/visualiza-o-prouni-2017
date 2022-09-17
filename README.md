@@ -1,6 +1,6 @@
 # Análise Sobre os Aprovados do Prouni em 2017
 
-Neste projeto será feito uma análise de dados, a partir de um dataset obtido no kaggle (que pode ser acessado [aqui](https://www.kaggle.com/datasets/raphaelmarconato/pro-uni-scholarship-2017)) que é sobre os aprrovados no Prouni no ano de 2017, o intuito é fazer uma análise macro, fazer uma analise separada por idade e depois fazer uma análise micro (será escolhido o Estado do Pará, pois é o Estado onde resido), e fazer as comparações.
+Neste projeto será feito uma análise de dados, a partir de um dataset obtido no kaggle (que pode ser acessado [aqui](https://www.kaggle.com/datasets/raphaelmarconato/pro-uni-scholarship-2017)) que é sobre os aprovados no Prouni no ano de 2017, o intuito é fazer uma análise macro, fazer uma analise separada por idade e depois fazer uma análise micro (será escolhido o Estado do Pará, pois é o Estado onde resido), e fazer as comparações.
 
 ### Sobre o dataset
 
