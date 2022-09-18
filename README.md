@@ -26,3 +26,15 @@ Foi adicionado uma coluna idade fazendo a diferença de 2017 pelo o ano de nasci
 
 ## [Análise Macro](https://github.com/gustavoramos82/visualiza-o-prouni-2017/blob/main/Analise%20macro.md)
 
+## Análise Por Idade
+
+🚧 Em construção  🚧 
+
+## Análise Micro
+
+🚧 Em construção  🚧 
+
+## Comparação dos Resultados
+
+🚧 Em construção  🚧 
+
