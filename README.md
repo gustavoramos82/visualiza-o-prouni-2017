@@ -34,7 +34,7 @@ Para a leitura clique [aqui](https://github.com/gustavoramos82/visualiza-o-proun
 
 ## Análise Micro
 
-🚧 Em construção  🚧 
+Para a leitura clique [aqui](https://github.com/gustavoramos82/visualiza-o-prouni-2017/blob/main/textos/Analise%20Micro.md)
 
 ## Comparação dos Resultados
 
