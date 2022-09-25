@@ -38,5 +38,6 @@ Para a leitura clique [aqui](https://github.com/gustavoramos82/visualiza-o-proun
 
 ## Comparação dos Resultados
 
-🚧 Em construção  🚧 
+ Comparando os resultados da análise micro com a análise macro, enquanto olhando para o Brasil, temos cerca de 77% presencial, aqui tem em torno 53%, ou seja praticamente metade do aprovados se comparado com o anĺise macro, enquanto aos turnos, o nacional é muito mais ao period notuno, enquanto no Pará a mairori é EAD, mas em segundo lugar é op eriodo noturno, mostrando que os aprovados tem uma certa preferência pelo esses dois periodos. Entre os curso a diferenla é que no Pará o três primeiros lugares fico em Pedagogia, Administração e Ciências Contabeis e no Nacional temos Admistração, Direito e Pedagogia, sendo que ciência Contábeis ficou em quarto lugar no nacional.
+ E nas faculdades a Universidade Paulista e Unorpar aparece tanto no local e nacional nos primeiros lugares, mostrando a prferência dos alunos nestas universidades ou a disponibilidade de vagas.
 
